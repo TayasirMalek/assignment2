@@ -682,6 +682,9 @@ footer {
 .links {
     font-size: 1.5rem;
 }
+.links a{
+    color: #131318;;
+}
 
 footer hr {
     margin-bottom: 50px;
